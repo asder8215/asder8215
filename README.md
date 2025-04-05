@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## The TL;DR About Me
+## The TL;DR about me
 - The name's Mahdi! (or you can call me Asder, either works)
 - I go by he/him or they/them pronouns
 - I'm *hugely* into systems or low level programming (OS, Firmware, Distributed Systems, Embedded Systems, etc.)
