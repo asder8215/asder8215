@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - I go by he/him or they/them pronouns
 - I'm *hugely* into systems or low level programming (OS, Firmware, Distributed Systems, Embedded Systems, etc.)
 - If you want to reach out to me, email me through: mma2268@columbia.edu.
-- You can take a look at my CV [here](https://github.com/asder8215/asder8215/blob/master/Mahdi%20Ali-Raihan's%20CV.pdf)
+- You can take a look at my resume/all projects I've worked on [here](https://github.com/asder8215/asder8215/blob/master/Mahdi%20Ali-Raihan's%20CV.pdf)
 
 ## More About Me
 I'm a guy who studied Computer Science at Columbia University (graduated May 2025), with a particular interest in systems related programming. I love working out system designs, seeing how they work under the hood (and implementing them), and optimizing them even further. I do dabble or explore with fields other than systems programming, like mobile app development, AI, or cybersecurity. 
