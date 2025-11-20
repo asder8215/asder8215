@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - You can take a look at my resume/all projects I've worked on [here](https://github.com/asder8215/asder8215/blob/master/Mahdi%20Ali-Raihan's%20CV.pdf)
 
 ## More About Me
-I'm a guy who studied Computer Science at Columbia University (graduated May 2025), with a particular interest in systems related programming. I love working out system designs, seeing how they work under the hood (and implementing them), and optimizing them even further. I do dabble or explore with fields other than systems programming, like mobile app development, AI, or cybersecurity. 
+I studied Computer Science at Columbia University (graduated May 2025), with a particular interest in systems related programming. I love working out system designs, seeing how they work under the hood (and implementing them), and optimizing them even further. I do dabble or explore with fields other than systems programming, like mobile app development, AI, or cybersecurity. 
 
 My career interests are pretty broad, but, hey, if I could be involved with doing something like firmware code on printers, huge scale distributed systems for social media apps, work on security related features for an OS– anything exciting from a system design or algorithmic standpoint (and implementation), then you got me reeled in. Front End is an absolute no go for me though (unless you're making me do that in Rust or C/C++, then *maybe* I'll bite).
 
